@@ -2,7 +2,7 @@
 
 ### BUILDANDO IMAGEM
 ```sh
-docker build -t <image_name>
+docker build -t <image_name> .
 ```
 
 ### PULL AND RUN
